@@ -1,0 +1,3 @@
+[submodule "wooden-shield-module"]
+	path = wooden-shield-module
+	url = https://github.com/elfyndor203/wooden-shield-module.git

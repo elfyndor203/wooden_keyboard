@@ -494,7 +494,7 @@
       "plot": "Gerber plots/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "../Case/Kicad Project.step",
       "svg": "",
       "vrml": ""
     },
